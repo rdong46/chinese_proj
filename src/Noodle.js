@@ -7,7 +7,6 @@ import {
   VStack,
   UnorderedList,
   ListItem,
-  List,
 } from "@chakra-ui/react";
 import { Link } from "react-router-dom";
 
